@@ -1,0 +1,7 @@
+<!DOCTYPE svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="60" height="60">
+  <path stroke="#123" stroke-width="2" stroke-linejoin="round" d="M20,80c0,45,80,45,80,0c0-40-40-60-40-70c0,20-40,30-40,70z"></path>
+  <path fill="#e50" d="M20,80c0,45,80,45,80,0c0-40-40-60-40-70c0,20-40,30-40,70z"></path>
+  <path fill="#fc0" d="M35,85c0,30,50,30,50,0c0-20-25-35-25-40c0,15-25,20-25,40z"></path>
+  <path fill="#fff" d="M50,90c0,14,20,14,20,0c0-10-10-20-10-20c0,10-10,10-10,20z"></path>
+</svg>
